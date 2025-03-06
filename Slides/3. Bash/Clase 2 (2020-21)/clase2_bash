@@ -1,0 +1,190 @@
+1- Variables
+
+ Internas
+
+  246  a=5
+  247  echo $a
+  248  a=hola
+  249  echo $a
+  250  a=5
+  251  a="$a hola"
+  252  echo $a
+  253  a = "$a hola"
+  254  a=6
+  255  whoami
+  256  c=`whoami`
+  257  echo $c
+  258  expr $a + 1
+  259  expr 6 + 1
+  260  b=`expr $a + 1`
+  261  echo $7
+  262  echo $b
+  263  expr 6+ 1
+  264  expr 6 +1
+  265  b=$((a+1))
+  266  echo $b
+  267  c=$((b+a))
+  268  echo $c
+  269  echo $((b+a))
+
+De la shell
+HOME
+
+  272  echo $HOME
+  273  echo $PATH
+  274  echo $PWD
+  275  echo $OLD_PWD
+  276  echo $OLDPWD
+  277  env
+  278  cd /tmp/
+  279  echo $OLDPWD
+  280  cd -
+  281  env
+  282  history
+
+- : qué es d - p
+rw-: permisos del usuario propietario
+r--: permisos del grupo propietario
+r--: permisos de todo el resto 
+
+1 astt astt 42 feb 18 09:01 primero.sh
+
+100
+r-- 4
+-w- 2
+--x 1
+
+rwx 7
+
+744 -> los otros pueden leer
+700 -> los otros nada
+600
+
+x ejecución para ficheros, entrada para directorios
+
+chmod 744 primero.sh
+-rwxr--r-- 1 astt astt 42 feb 18 09:01 primero.sh
+
+Con variables numéricas:
+-eq
+-ne
+-le
+-lt
+-ge
+-gt
+
+ficheros
+-e
+-f
+-r
+cadenas
+==
+!=
+
+ 286  ls -l primero.sh
+  287  source primero.sh
+  288  chmod +x primero.sh
+  289  ls -l
+  290  ls -l primero.sh
+  291  chmod -x primero.sh
+  292  ls -l primero.sh
+  293  chmod 644 primero.sh
+  294  ls -l primero.sh
+  295  chmod 744 primero.sh
+  296  ls -l primero.sh
+  297  chmod 644 primero.sh
+  298  ls -l primero.sh
+  299  chmod 744 primero.sh
+  300  ./primero.sh 
+  301  who
+  302  ./primero.sh 
+  303  ./primero.sh dgf df dfh 
+  304  ./primero.sh uno dos tres 1 2 34
+  305  ./primero.sh uno dos tres 1 2 34 vdxfg dfh 
+  306  echo $$
+  307  echo $?
+  308  ps 
+  309  ./primero.sh uno dos tres 1 2 34 vdxfg dfh 
+  310  a=5
+  311  if [ $a -eq 5 ]; then echo $es; else  echo no es; fi
+  312  if [ $a -eq 5 ]; then echo es; else  echo no es; fi
+  313  a=89
+  314  if [ $a -eq 5 ]; then echo es; else  echo no es; fi
+  315  ./primero.sh 
+  316  ./primero.sh uno dos tres 1 2 34 vdxfg dfh 
+  317  ./primero.sh 
+  318  echo $$
+  319  echo $?
+  320  ./primero.sh 
+  321  echo $?
+  322  ls
+  323  test -f clase.txt
+  324  if [ -f clase.txt ]; then echo regular; fi
+  325  if [ -e clase.txt ]; then echo regular; fi
+  326  if [ -e clase.txt ]; then echo exite; fi
+  327  if [ -d clase.txt ]; then echo exite; fi
+  328  if [ -d Plantillas ]; then echo exite; fi
+  329  a="uno"
+  330  if [ "$a" != "" ]; then echo no es vacia; else echo lo es; fi
+  331  a=""
+  332  if [ "$a" != "" ]; then echo no es vacia; else echo lo es; fi
+  333  #if [ $a != "" ]; then echo no es vacia; else echo lo es; fi
+  334  a="uno"
+  335  if [ $a != "" ]; then echo no es vacia; else echo lo es; fi
+  336  a=""
+  337  if [ $a != "" ]; then echo no es vacia; else echo lo es; fi
+  338  if [ "$a" < "F" ]; then echo antes; else despues; fi
+  339  a="BRE"
+  340  if [ "$a" < "F" ]; then echo antes; else despues; fi
+  341  echo $a
+  342  echo $a < "F"
+  343  test $a < "F"
+  344  for v in a b c; do echo $v; done
+  345  for v in a b c; do echo Vable: $v; done
+  346  ls *
+  347  for v in *; do echo "mi vable $v"; done
+  348  ls
+  349  a=1
+  350  while [ $a -eq 3 ]; do echo $a; a=$((a+1)); done
+  351  while [ $a -ne 3 ]; do echo $a; a=$((a+1)); done
+  352  read a
+  353  echo $a
+  354  read -p "Dime algo:" a
+  355  echo $a
+  356  while read a; do echo $a; done 
+  357  while read -p "Dime algo" a; do echo -n "Lo introducido es:"; echo $a; done
+  358  echo -n hola
+  359  ls
+  360  cat clase.txt
+  361  while read a; do echo $a; done < clase.txt
+  362  while read a; do echo La linea es: $a; done < clase.txt
+  363  ./primero.sh 
+  364  ./primero.sh  wsgfr dfhg dfh 
+  365  ./primero.sh uno dos tres
+  366  ./primero.sh uno dos tres cuatro
+  371  echo $RANDOM
+  372  history
+  373  source ej1.sh 
+  374  source ej1.sh sadf sdf sdf
+  375  echo $RANDOM
+  376  source ej1.sh sadf sdf sdf
+  377  source ej1.sh uno dos tres cuatro
+  378  a=""
+  379  if [ $a = "tres" ]; then echo $igual; fi
+  380  if [[ $a = "tres" ]]; then echo $igual; fi
+  381  a=tres
+  382  if [[ $a = "tres" ]]; then echo $igual; fi
+  383  if [[ $a = "tres" ]]; then echo igual; fi
+  384  if [[ $a < "tres" ]]; then echo igual; fi
+  385  a=bi
+  386  if [[ $a < "tres" ]]; then echo igual; fi
+  387  if [[ $a < "tres" ]]; then echo menor; fi
+  388  a=vi
+  389  if [[ $a < "tres" ]]; then echo menor; fi
+  390  a=3
+  391  case $a in 2) echo es 2; ;; 3) echo es 3; ;; *) echo es otra cosa; ;; esac
+  392  a=5
+  393  case $a in 2) echo es 2; ;; 3) echo es 3; ;; *) echo es otra cosa; ;; esac
+  394  a=2
+  395  case $a in 2) echo es 2; ;; 3) echo es 3; ;; *) echo es otra cosa; ;; esac
+

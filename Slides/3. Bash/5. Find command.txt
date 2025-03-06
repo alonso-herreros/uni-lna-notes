@@ -1,0 +1,166 @@
+basic 'find file' commands
+--------------------------
+find / -name foo.txt -type f -print             # full command
+find / -name foo.txt -type f                    # -print isn't necessary
+find / -name foo.txt                            # don't have to specify "type==file"
+find . -name foo.txt                            # search under the current dir
+find . -name "foo.*"                            # wildcard
+find . -name "*.txt"                            # wildcard
+find /users/al -name Cookbook -type d           # search '/users/al' dir
+
+search multiple dirs
+--------------------
+find /opt /usr /var -name foo.scala -type f     # search multiple dirs
+
+case-insensitive searching
+--------------------------
+find . -iname foo                               # find foo, Foo, FOo, FOO, etc.
+find . -iname foo -type d                       # same thing, but only dirs
+find . -iname foo -type f                       # same thing, but only files
+
+find files with different extensions
+------------------------------------
+find . -type f \( -name "*.c" -o -name "*.sh" \)                       # *.c and *.sh files
+find . -type f \( -name "*cache" -o -name "*xml" -o -name "*html" \)   # three patterns
+
+find files that don't match a pattern (-not)
+--------------------------------------------
+find . -type f -not -name "*.html"                                # find all files not ending in ".html"
+
+find all hidden files
+---------------------------------------------
+find /tmp -type f -name ".*"                                     #empiezan con .
+
+
+find files by text in the file (find + grep)
+--------------------------------------------
+find . -type f -name "*.java" -exec grep -l StringBuffer {} \;    # find StringBuffer in all *.java files
+find . -type f -name "*.java" -exec grep -il string {} \;         # ignore case with -i option
+find . -type f -name "*.gz" -exec zgrep 'GET /foo' {} \;          # search for a string in gzip'd files
+
+5 lines before, 10 lines after grep matches
+-------------------------------------------
+find . -type f -name "*.scala" -exec grep -B5 -A10 'null' {} \;
+     (see https://alvinalexander.com/linux-unix/find-grep-print-lines-before-after-search-term)
+
+
+find files with/without certain permissions
+-------------------------------
+find . -type f -perm 0777 -print                                 # todos con permisos 777
+find . -type f ! -perm 0777 -print                               # todos con permisos 777
+find / -perm /u=r                                                # con los permisos de usuario para lectura
+find / -perm /a=r                                                # con los permisos de "todos" para ejecución
+
+find files based in user/group, etc
+--------------------------------------------
+find /home -user iria                                            #todos los ficheros que pertenecen a iria
+find /home -group prof                                           #todos los ficheros que pertenecen al grupo prof
+find /home -user iria -iname "*.txt"                             #todos los ficheros que pertenecen a iria con extensión txt
+
+
+find empty files/directories
+----------------------------------
+
+find /tmp -type f -empty
+find /tmp -type d -empty
+
+
+
+find files by modification time (última modificación)
+-------------------------------
+find . -mtime 1               # 24 hours
+find . -mtime -7              # last 7 days
+find . -mtime -7 -type f      # just files
+find . -mtime -7 -type d      # just dirs
+
+find / -mtime +50 –mtime -100 # aquellos modificados hace más de 50 días y menos de 100
+find / -mmin -60             # última hora 
+
+find files by access time (último acceso)
+-------------------------------
+find . -atime 1               # 24 hours
+find . -atime -7              # last 7 days
+find . -atime -7 -type f      # just files
+find . -atime -7 -type d      # just dirs
+find . -atime 50               # 50 days
+find / -amin -60             # última hora 
+
+
+find files by change time (último cambio)
+-------------------------------
+find / -cmin -60             # última hora 
+
+
+find files by modification time using a temp file (encontrar aquellos que tenga un timestamp menor a poop)
+-------------------------------------------------
+touch 09301330 poop           # 1) create a temp file with a specific timestamp
+find . -newer poop           # 2) returns a list of new files
+rm poop                       # 3) rm the temp file
+----------
+find . -newer documentacion.pdf                                 #todos los que tienen un tiempo de modificación menor a documentacion.pdf
+                                                                #-anewer es el de acceso, -cnewer el de cambio
+
+find with time: this works on mac os x
+--------------------------------------
+find / -newerct '1 minute ago' -print
+
+
+find by size
+--------------------------------------
+find / -size 50M                                        # de tamaño 50 MB
+find / -size +50M -size -100M                           # entre 50 y 100 MB
+
+
+find files and act on them (find + exec)
+----------------------------------------
+find /usr/local -name "*.html" -type f -exec chmod 644 {} \;      # change html files to mode 644
+find htdocs cgi-bin -name "*.cgi" -type f -exec chmod 755 {} \;   # change cgi files to mode 755
+find . -name "*.pl" -exec ls -ld {} \;                            # run ls command on files found
+
+find and copy
+-------------
+find . -type f -name "*.mp3" -exec cp {} /tmp/MusicFiles \;       # cp *.mp3 files to /tmp/MusicFiles
+
+copy one file to many dirs
+--------------------------
+find dir1 dir2 dir3 dir4 -type d -exec cp header.shtml {} \;      # copy the file header.shtml to those dirs
+
+find and delete
+---------------
+find . -type f -name "Foo*" -exec rm {} \;                        # remove all "Foo*" files under current dir
+find . -type d -name CVS -exec rm -r {} \;                        # remove all subdirectories named "CVS" under current dir
+find / -type f -size +100M -exec rm -f {} \;                      # find all 100MB files and delete them using one single command.
+
+
+find and tar
+------------
+find . -type f -name "*.java" | xargs tar cvf myfile.tar         # no funciona con el argumento c (crear)
+find . -type f -name "*.java" | xargs tar rvf myfile.tar         #funciona con el argumento r (añadir)
+
+     (see https://alvinalexander.com/blog/post/linux-unix/using-find-xargs-tar-create-huge-archive-cygwin-linux-unix
+     for more information)
+
+find, tar, and xargs
+--------------------
+find . -name -type f '*.mp3' -mtime -180 -print0 | xargs -0 tar rvf music.tar
+
+     (-print0 helps handle spaces in filenames) (-0 tells xargs to expect NUL characters as line separators)
+     (see https://alvinalexander.com/mac-os-x/mac-backup-filename-directories-spaces-find-tar-xargs)
+
+
+xargs
+---------------
+$ ls
+p1.txt  p2.txt  prueba
+$ cat p1.txt 
+Hola
+$ cat p2.txt 
+Adios
+$cat prueba 
+p1.txt
+p2.txt
+$ cat prueba | xargs cat 
+Hola
+Adios
+
+(parte del material tomado de http://alvinalexander.com/unix/edu/examples/find.shtml )

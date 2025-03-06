@@ -1,0 +1,147 @@
+    1  ls
+    2  git clone iria@varpa.it.uc3m.es:RepositoriosDocencia/as.git
+    3  df
+    4  cd as2
+    5  ls
+    6  cd /media/sf_as2/
+    7  ls /media/sf_as2/ -l
+    8  ls /media/sf_as2
+    9  ls /media/ -l
+   10  sudo ls /media/ -l
+   11  sudo ls /media/sf_as2/ -l
+   12  sudo usermod -G vboxsf -a astt 
+   13  ls /media/
+   14  ls /media/sf_as2/
+   15  ls -l
+   16  ls /etc/groups
+   17  ls /etc/group
+   18  cat /etc/group
+   19  ls /media/sf_as2/
+   20  ls /media -l
+   21  cd ../../
+   22  ls
+   23  cd
+   24  ls
+   25  mkdir EjerciciosClase
+   26  cd EjerciciosClase/
+   27  ls
+   28  mkdir Procesos
+   29  cd Procesos/
+   30  ls
+   31  mkdir clase1
+   32  cd clase1/
+   33  ls
+   34  cp /media/sf_as2/Material_Clase/Procesos/01-ProcesosHilos/ejemplos_clase/*.c .
+   35  ls
+   36  ls -l
+   37  chmod -x *.c
+   38  ls
+   39  gcc -Wall -g -o ejemplo1_creo.c 
+   40  gcc -Wall -g -o ejemplo1_creo ejemplo1_creo.c 
+   41  ./ejemplo1_creo 
+   42  emacs ejemplo1_creo.c &
+   43  ls
+   44  cd /media/sf_as2/
+   45  ls
+   46  cd Material_Clase/
+   47  ls
+   48  cd Procesos/
+   49  ls
+   50  cd 01-ProcesosHilos/
+   51  ls
+   52  ls ejemplos_clase/
+   53  ls
+   54  ls ejemplos_clase/
+   55  cd ejemplos_clase/
+   56  ps aux 
+   57  pstree
+   58  ls
+   59  cd EjerciciosClase/
+   60  ls
+   61  cd Procesos/
+   62  ls
+   63  cd clase1/
+   64  ls
+   65  emacs ejemplo2_execl.c &
+   66  ls -l ejemplo1_creo.c 
+   67  gcc -Wall -g -o ejemplo1_creo ejemplo1_creo.c 
+   68  gcc -Wall -g -o ejemplo2_execl ejemplo2_execl.c
+   69  ./ejemplo2_execl 
+   70  ls
+   71  gcc -Wall -g -o ejemplo2_execl ejemplo2_execl.c
+   72  ./ejemplo2_execl 
+   73  gcc -Wall -g -o ejemplo2_execl ejemplo2_execl.c
+   74  ./ejemplo2_execl 
+   75  man exec
+   76  ll
+   77  ps 
+   78  ps aux
+   79  ps aux | grep astt
+   80  emacs 
+   81  bg
+   82  shfsdf
+   83  fg
+   84  bg
+   85  jobs 
+   86  kate &
+   87  jobs
+   88  fg
+   89  bg
+   90  fg %1
+   91  bg
+   92  yes
+   93  echo $PWD
+   94  pwd
+   95  cd EjerciciosClase/Procesos/clase1/
+   96  l
+   97  ls
+   98  pwd
+   99  echo PWD
+  100  echo $PWD
+  101  echo $OLDPWD 
+  102  cd -
+  103  echo $PWD
+  104  echo $OLDPWD 
+  105  cd -
+  106  cd
+  107  echo $HOME
+  108  env
+  109  cd -
+  110  cd ../
+  111  echo $PWD
+  112  echo $OLDPWD
+  113  cd ../
+  114  cd -
+  115  cd
+  116  cd -
+  117  cd ../../
+  118  pwd
+  119  cd ../
+  120  ls
+  121  cd ../
+  122  ls
+  123  cd 
+  124  a=5
+  125  echo $a
+  126  a=pwd
+  127  echo $a
+  128  pwd
+  129  a=`pwd`
+  130  echo $a
+  131  b=`ls -l`
+  132  echo $b
+  133  ls -l
+  134  whoami
+  135  quien=`whoami`
+  136  export quien=`whoami`
+  137  echo $quien 
+  138  cd
+  139  echo ~
+  140  echo ~root
+  141  usuario=astt
+  142  echo ~astt
+  143  echo ~$usuario
+  144  eval echo ~$usuario
+  145  history 
+  146  ls
+  147  history > clase1_bash

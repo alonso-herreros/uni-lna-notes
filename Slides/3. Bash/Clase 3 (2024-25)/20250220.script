@@ -1,0 +1,734 @@
+Script started on 2025-02-20 09:17:54+01:00 [TERM="xterm-256color" TTY="/dev/pts/1" COLUMNS="80" LINES="24"]
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=[K[Ka=5
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $a
+[?2004l5
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a -ne 5 ]
+[?2004l[?2004h> then
+[?2004l[?2004h> echo "es distintos[K"
+[?2004l[?2004h> elase[K[K[Kse
+[?2004l[?2004h> echo "es giau[K[K[K[Kigul[Kal"
+[?2004l[?2004h> fi
+[?2004les igual
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=6
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=6if [ $a -ne 5 ]; then echo "es distinto"; else echo "es igual"; fi
+[?2004les distinto
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a -ne 5 ]; then echo "es distinto"; else echo "es igual"; fi[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho $b
+[?2004l
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $bif [ $a -ne 5 ]; then echo "es distinto"; else echo "es igual"; fi[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -ne 5 ]; then echo "es [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[Cb -ne 5 ]; then echo "es[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C
+
+[?2004lbash: [: -ne: se esperaba un operador unario
+es igual
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $b -ne 5 ]; then echo "es distinto"; else echo "es igual"; fi[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" -ne 5 ]; then echo "e[1@s[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C"$b" -ne 5 ]; then echo "[1@e[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C
+
+[?2004lbash: [: : se esperaba una expresión entera
+es igual
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ "$b" -ne 5 ]; then echo "es distinto"; else echo "es igual"; fi[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C$b -ne 5 ]; then echo "es[2P[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $b[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cif [ $a -ne 5 ]; then echo "es distinto"; else echo "es igual"; fi
+[?2004les distinto
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a -ne 5 ]; then echo "es distinto"; else echo "es igual"; fi[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 5 ]; then echo "es [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C 5 ]; then echo "es d[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C 5 ]; then echo "es di[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C! 5 ]; then echo "es d[1@i[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C= 5 ]; then echo "es [1@d[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C
+
+[?2004les distinto
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a != 5 ]; then echo "es distinto"; else echo "es igual"; fi[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho $a
+[?2004l6
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $aif [ $a != 5 ]; then echo "es distinto"; else echo "es igual"; fi[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C= 5 ]; then echo "es d[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C= 5 ]; then echo "es [1@d[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C
+
+[?2004les igual
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a == 5 ]; then echo "es distinto"; else echo "es igual"; fi[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C5 ]; then echo "es[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C 55 ]; then echo "es [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C 55 ]; then echo "es d[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C55 ]; then echo "es di[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C 55 ]; then echo "es d[1@i[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C- 55 ]; then echo "es [1@d[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[Cl 55 ]; then echo "es[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[Ct 55 ]; then echo "e[1@s[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C
+
+[?2004les distinto
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a -lt 55 ]; then echo "es distinto"; else echo "es igual"; fi[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1@m[1@e[1@n[1@o[1@r[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [1@o[1@ [1@m[1@a[1@y[1@o[1@r
+[?2004les menor
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a -lt 55 ]; then echo "es menor"; else echo "es igual o mayor"; fi[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004les menor
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a -lt 55 ]; then echo "es menor"; else echo "es igual o mayor"; fi[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 55 ]; then echo "es[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C 55 ]; then echo "es [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C 55 ]; then echo "es m[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[Cz 55 ]; then echo "es [1@m[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C= 55 ]; then echo "es[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C? 55 ]; then echo "e[1@s[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C 55 ]; then echo "es[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C 55 ]; then echo "es [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C 55 ]; then echo "es m[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C< 55 ]; then echo "es [1@m[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C= 55 ]; then echo "es[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C
+
+[?2004lbash: =: No existe el archivo o el directorio
+es igual o mayor
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a <= 55 ]; then echo "es menor"; else echo "es igual o mayor"; fi[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 55 ]; then echo "es [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C
+
+[?2004lbash: 55: No existe el archivo o el directorio
+es igual o mayor
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a < 55 ]; then echo "es menor"; else echo "es igual o mayor"; fi[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cif [ $a < 55 ]; then echo "es menor"; else echo "es igual o mayor"; fi[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[[[C[C[C[C[K[K[ 3 -eq 3 ] && echo iguañes[K[K[Kñe[K[Kles
+[?2004liguales
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [ 3 -eq 3 ] && echo iguales[C[1P[1@4
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [ 3 -eq 4 ] && echo iguales[K[ 3 -eq 4 ] && echo iguales[1P[1@$[1@a
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=4
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=4[ $a -eq 4 ] && echo iguales
+[?2004liguales
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [ $a -eq 4 ] && echo igualesa=4[K[ $a -eq 4 ] && echo iguales[1P3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C3[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cif [ $a < 55 ]; then echo "es menor"; else echo "es igual o mayor"; fi[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [2P[ 3 -eq 3 ] && echo iguales
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C4[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@$a[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca=4[K[ $a -eq 4 ] && echo iguales[Ka=arbol
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a == "arbol" ]
+[?2004l[?2004h> then
+[?2004l[?2004h> echo es arbol
+[?2004l[?2004h> else
+[?2004l[?2004h> echo no lo es
+[?2004l[?2004h> fi
+[?2004les arbol
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=arbil[K[Kolito
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=arbolitoif [ $a == "arbol" ]; then echo es arbol; else echo no lo es; fi
+[?2004lno lo es
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a == "arbol" ]; then echo es arbol; else echo no lo es; fi[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [19Pa=arbolito
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cif [ $a == "arbol" ]; then echo es arbol; else echo no lo es; fi[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "arbol" ]; then echo[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C "arbol" ]; then echo [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C"arbol" ]; then echo e[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C "arbol" ]; then echo [1@e[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C\ "arbol" ]; then echo[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C< "arbol" ]; then ech[1@o[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[1@m[1@e[1@n[1@o[1@r[1@ [1@q[1@u[1@e[1@ 
+[?2004lno lo es
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a \< "arbol" ]; then echo es menor que arbol; else echo no lo es; fi[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1@e[1@s[1@ [1@m[1@a[1@y[1@o[1@r[1@ [1@q[1@u[1@e[1@ [1@a[1@r[1@b[1@o[1@l
+[?2004les mayor que arbol
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=arbo[K[K[Kna
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=anaif [ $a \< "arbol" ]; then echo es menor que arbol; else echo es mayor que arbol; fi
+[?2004les menor que arbol
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a \< "arbol" ]; then echo es menor que arbol; else echo es mayor que arbol; fi[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca=5
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=5if [ $a \< "arbol" ]; then echo es menor que arbol; else echo es mayor que arbol; fi[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "arbol" ]; then echo[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C "arbol" ]; then echo [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C- "arbol" ]; then echo[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[Cl "arbol" ]; then ech[1@o[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[Ct "arbol" ]; then ec[1@h[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ]; then ech[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ]; then echo[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ]; then echo [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ]; then echo e[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C ]; then echo es[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C ]; then echo es [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C ]; then echo es m[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C4 ]; then echo es [1@m[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C4 ]; then echo es[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1@4[1@4[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1@4[1@4
+[?2004les menor que 44
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $a -lt 44 ]; then echo es menor que 44; else echo es mayor que 44; fi[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C 44 ]; then echo es [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C 44 ]; then echo es m[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C 44 ]; then echo es me[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C\ 44 ]; then echo es m[1@e[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C< 44 ]; then echo es [1@m[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C
+
+[?2004les mayor que 44
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ls
+[?2004l20250220.script  [0m[01;32mej1.sh[0m
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ -f [K[K[K[K[K[K[K[Kfichero="ej1.sh"
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $fichero 
+[?2004lej1.sh
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ $fichero"$fichero[C[C[C[C[C[C[C[C" [C[C[C[C[C[1@-[1@f[1@ [C[C[C[C[C[C[C[C[C[C[C]
+[?2004l[?2004h> d[Kthen
+[?2004l[?2004h> echo "es fich regular"
+[?2004l[?2004h> fi
+[?2004les fich regular
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ -f "$fichero" ]; then echo "es fich regular"; fi[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C "$fichero" ]; then echo[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[Cd "$fichero" ]; then ech[1@o[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" ]; then echo[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" ]; then echo [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C" ]; then echo "[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C" ]; then echo "e[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C" ]; then echo "es[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C" ]; then echo "es [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C" ]; then echo "es f[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C" ]; then echo "es fi[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C." ]; then echo "es f[1@i[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C
+
+[?2004les fich regular
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ -d "." ]; then echo "es fich regular"; fi[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1P[1@d[1@i[1@r[1@e[1@c[1@t[1@o[1@r[1@i[1@o
+[?2004les directorio
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ -d "." ]; then echo "es directorio"; fi[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cif [ -d "." ]; then echo "es directorio"; fi[2@fich regular[C[C[C[C[C[2Pdirectorio[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls -l
+[?2004ltotal 44
+-rw-rw-r-- 1 iria iria 36864 feb 20 09:38 20250220.script
+-rwxrw---- 1 iria iria   198 feb 13 10:31 [0m[01;32mej1.sh[0m
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ touch tontunada
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ls -l
+[?2004ltotal 44
+-rw-rw-r-- 1 iria iria 36864 feb 20 09:38 20250220.script
+-rwxrw---- 1 iria iria   198 feb 13 10:31 [0m[01;32mej1.sh[0m
+-rw-rw-r-- 1 iria iria     0 feb 20 09:38 tontunada
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ if [ -x tontunada ]
+[?2004l[?2004h> then
+[?2004l[?2004h> echo "perm ejecuto"
+[?2004l[?2004h> fi
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ chmo [Kd +x tontunada 
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ chmod +x tontunada if [ -x tontunada ]; then echo "perm ejecuto"; fi
+[?2004lperm ejecuto
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ñ[Kls -l
+[?2004ltotal 44
+-rw-rw-r-- 1 iria iria 36864 feb 20 09:38 20250220.script
+-rwxrw---- 1 iria iria   198 feb 13 10:31 [0m[01;32mej1.sh[0m
+-rwxrwxr-x 1 iria iria     0 feb 20 09:38 [01;32mtontunada[0m
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ while [K[K[K[K[K[Kcontador=2
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ while [ $conado[K[K[Ktao[5Pcontador=2[K0
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ c[Kwhile [ $cona[Ktador -ne 5 ]
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $contador
+[?2004l[?2004h> contador=$((cona[Ktador+1))
+[?2004l[?2004h> done
+[?2004l0
+1
+2
+3
+4
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ f[Kls
+[?2004l20250220.script  [0m[01;32mej1.sh[0m  [01;32mtontunada[0m
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ fir [K[K[Kor f in a b c d
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $f
+[?2004l[?2004h> done
+[?2004la
+b
+c
+d
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ fo[K[Kfor fich in *
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $fiche$fichl$fich $fichf$fichi$fichc$fichh$fiche$fichr$ficho$fichs$fich[1P$fich $fiche$fichs$fich:$fich $fich[C[C[C[C[C
+[?2004l[?2004h> done
+[?2004lel fichero es: 20250220.script
+el fichero es: ej1.sh
+el fichero es: tontunada
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ls [K[K[Kls
+[?2004l20250220.script  [0m[01;32mej1.sh[0m  [01;32mtontunada[0m
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ mkdir ejemplo
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ cd ejemplo/
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ ls
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ for f [K[Kindice in [a[[C1-6]
+[?2004l[?2004h> do
+[?2004l[?2004h> echo $indice
+[?2004l[?2004h> done
+[?2004la[1-6]
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ for indice in a[1-6]; do echo $indice; done[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1-6]; d[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[1-6]
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ for indice in [1-6]; do echo $indice; done[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cls
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ for [K[K[K[Klsfor indice in [1-6]; do echo $indice; done[C[C[C[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6]; do[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C:6]; d[1@o[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C6]; do[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.6]; d[1@o[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C.6]; [1@d[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[1..6]
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ for indice in [1..6]; do echo $indice; done[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1..6]; d[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C{1..6]; [1@d[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C; d[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C}; [1@d[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l1
+2
+3
+4
+5
+6
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ for indice in {1..6}; do echo $indice; done[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C1..6}; d[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C; do[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l1..6
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ for indice in 1..6; do echo $indice; done[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C{1..6; d[1@o[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C}; [1@d[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l1
+2
+3
+4
+5
+6
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ for indice in {1..6}; do echo $indice; done[C[C[C[C[K
+[?2004l[?2004h> rouch[K[K[K[K[Kotuch[K[K[K[K[Kouch[K[K[K[Ktu[Kouch "[Kfichero$indice
+[?2004l[?2004h> done
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ ls
+[?2004lfichero1  fichero2  fichero3  fichero4  fichero5  fichero6
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ rm fichero[1-6][1P]3]
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ ls
+[?2004lfichero4  fichero5  fichero6
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ read -p "Dime algo.[K:"
+[?2004lDime algo:a
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ read -p "Dime algo:"a-p "Dime algo:" [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C -p "Dime algo:" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cl -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[Co -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[Cq -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[Cu -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[Ce -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[Cm -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[Ce -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[Cd -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[Ci -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[Cg -p "Di[1@m[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ca -p "D[1@i[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -p "Di[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C -p "Dim[1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C -p "Dime[1P algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C -p "Dime [1Palgo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C -p "Dime a[1Plgo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C -p "Dime al[1Pgo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C -p "Dime alg[1Po:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C -p "Dime algo[1P:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C -p "Dime algo:[1P"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C -p "Dime algo:"[K[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C -p "Dime algo:" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cv -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[Ca -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[Cr -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[Ci -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[Ca -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[Cb -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[Cl -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[Ce -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C -p "Dime [1Palgo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C -p "Dime a[1Plgo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C -p "Dime al[1Pgo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C -p "Dime alg[1Po:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C -p "Dime algo[1P:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[CU -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[Cs -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[Cr -p "Dime algo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C
+
+[?2004lalgo
+bash: read: `-p': no es un identificador válido
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ read varUsr -p "Dime algo:"[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-p "Dime al[1Pgo:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C-p "Dime alg[1Po:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C-p "Dime algo[1P:"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C-p "Dime algo:[1P"[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C-p "Dime algo:"[K[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C-p "Dime algo:" [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C  varusur
+[?2004lDime algo:ss
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ echo $varusur 
+[?2004lss
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ while read a
+[?2004l[?2004h> do
+[?2004l[?2004h> echo -n "dime algo"
+[?2004l[?2004h> echo $a
+[?2004l[?2004h> done
+[?2004l44
+dime algo44
+45
+dime algo45
+67
+dime algo67
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ echo ·[K"dime algo:[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kwhile read a; do echo -n "dime algo"; echo $a; done[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [7Pecho $varusur 
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cread -p "Dime algo:" varusur[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [7Pecho $varusur
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhile read a; do echo -n "dime algo"; echo $a; done[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhile read a; do echo -n "dime algo"; echo $a; done[1P[1P[1P[1P[1P[1P[1P[1P done[1Pdone[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cecho[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccech[1@o[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Chec[1@h[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Coe[1@c[1@ [1@$[1@a[1@;[1@ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@:[1@ 
+[?2004l67
+67
+dime algo: dkfjgfdg
+dkfjgfdg
+dime algo: asifdsuf
+asifdsuf
+dime algo: slhfushf
+slhfushf
+dime algo: [?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ 
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ while read i[Klinea
+[?2004l[?2004h> do
+[?2004l[?2004h> echo La linea es $p[1@"[C[C[C[C[C[C[C[C[C[C[C[C[C[C"
+[?2004l[?2004h> done < fichero
+fichero4  fichero5  fichero6  
+> done < fichero[K[K[K[K[K[K[K[K ../
+20250220.script  ej1.sh           ejemplo/         tontunada        
+> done < ../ej1.sh 
+[?2004lLa linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+La linea es 
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ while read linea; do echo "La linea es $p"; done < ../ej1.sh [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cc[Kecho hola > prueba
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ echo hola > prueba[C[C[C[C[1P[1P[1P[1P[1@a[1@d[1@i[1@o[1@s[C[C> prueba
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ echo adios >> prueba[C[C[C[C[C[C[C[C[C[C[1P[1P[1P[1P[1P[1@e[1@s[1@o
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ at[K[Kcta [K[K[Kard [K[K[Kt prueba 
+[?2004lhola
+adios
+eso
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ ls
+[?2004lfichero4  fichero5  fichero6  prueba
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ lscat prueba echo eso >> prueba[2@adios[C[C[C[C[C[C[C[C[C[C[2Phola [C[C[C[C[C[C[C[Cwhile read linea; do echo "La linea es $p"; done < ../ej1.sh [Kprueba
+[?2004lLa linea es 
+La linea es 
+La linea es 
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ while read linea; do echo "La linea es $p"; done < prueba[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhile read linea; do echo "La linea es $p"; done < prueba[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[while read linea; do [1@e[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C while read linea; do[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$  while read linea; do [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ { while read linea; do[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C
+[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1@ [1@}[1@;
+[?2004lLa linea es 
+La linea es 
+La linea es 
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ emacs prueba.sh &
+[?2004l[1] 5131
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ emacs prueba.sh &{ while read linea; do echo "La linea es $p"; done; } < prueba[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ while read linea; do e[5Pcho "La linea es $p"; done[C[C[C[C[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat prueba echo eso >> prueba[2@adios[C[C[C[C[C[C[C[C[C[C[2Phola [C[C[C[C[C[C[C[C[2@adios >[C[C[C[C[C[C[C[C[2Peso[C[C[C[C[C[C[C[C[C[C[7Pcat prueba ls[Kwhile read linea; do echo "La linea es $p"; done < prueba[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ { while read linea; do[5@ echo "La linea es $p"; done; }[C[C[C[C[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [4Pemacs prueba.sh &
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C{ while read linea; do echo "La linea es $p"; done; } < prueba[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ while read linea; do e[5Pcho "La linea es $p"; done[C[C[C[C[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cwhile read linea; do echo "La linea es $p"; done < prueba[C[1P[1@l[1@i[1@n[1@e[1@a
+[?2004lLa linea es hola
+La linea es adios
+La linea es eso
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ while read linea; do echo "La linea es $linea"; done < prueba[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat pr[K[K[K[K[K[Kwhile read linea; do echo "La linea es $linea"; done < prueba[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [4Pemacs prueba.sh &
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C{ while read linea; do echo "La linea es $p"; done; } < prueba[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ while read linea; do e[5Pcho "La linea es $p"; done[C[C[C[C[C[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ ls[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ccat prueba echo eso >> prueba[2@adios[C[C[C[C[C[C[C[C[C[C[2Phola [C[C[C[C[C[C[C[Cwhile read linea; do echo "La linea es $p"; done < ../ej1.sh [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[Ca; do echo [8P$a; echo -n "dime algo: "; done[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ [C[C[C[C[C[C[C[C[C[C[Clinea; do echo "La linea es $p"; done < ../ej1.sh [C[1P[1@l[1@i[1@n[1@e[1@a
+[?2004lLa linea es #!/bin/bash
+La linea es 
+La linea es echo el asterisco: $*
+La linea es echo el primero: $1
+La linea es echo el cero $0
+La linea es echo el sostenido: $#
+La linea es echo $$
+La linea es 
+La linea es echo "el triangulo"
+La linea es 
+La linea es # gt, ge
+La linea es # lt le
+La linea es # eq ne
+La linea es 
+La linea es while [ $# -gt 0 ]
+La linea es do
+La linea es echo $@
+La linea es shift
+La linea es done
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ 
+[?2004l[1]+  Hecho                   emacs prueba.sh
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ ls
+[?2004lfichero4  fichero5  fichero6  prueba  prueba.sh
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25/ejemplo[00m$ cd ../
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [K]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l15557
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l24087
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l2486
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l30373
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l9123
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l30004
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l27984
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l32042
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l24326
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l9279
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $RANDOM 
+[?2004l29278
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ emacs [K[K[K[K[K[Kemacs ej3.sh &
+[?2004l[1] 5308
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ expr 1 + $[K10 * $RA D[KNDOM / 32768
+[?2004lexpr: syntax error: unexpected argument «20250220.script»
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ expr 1 + 10 * $RANDOM / 32768[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C`expr 1 + 10 * $RA[1@N[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C
+[C[C[C[C[C[C[C[C[C[C[C[C[C`[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[C[C[C[C[C
+[?2004lexpr: syntax error: unexpected argument «20250220.script»
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ `expr 1 + 10 * $RANDOM / 32768`[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C\* $R[1@A[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l10: orden no encontrada
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ `expr 1 + 10 \* $RANDOM / 32768`[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a`expr 1 + 10 \* $[1@R[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C=`expr 1 + 10 \* [1@$[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C `expr 1 + 10 \*[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C`expr 1 + 10 \* [1P[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C
+
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $a
+[?2004l6
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $aa=`expr 1 + 10 \* $RANDOM / 32768`
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=`expr 1 + 10 \* $RANDOM / 32768`[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [10Pecho $a
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[?2004l1
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $aa=`expr 1 + 10 \* $RANDOM / 32768`[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0 \*[1@ [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C0 \[1@*[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $a
+[?2004l686
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $aa=`expr 1 + 1000 \* $RANDOM / 32768`[C[C[C[C[A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[10Pecho $a
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kls
+[?2004l20250220.script  [0m[01;32mej1.sh[0m  ej3.sh  ej3.sh~  [01;34mejemplo[0m  [01;32mtontunada[0m
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ chmod +x ej3.sh
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej3.sh 
+[?2004lerror en params
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej3.sh 10[K[K100
+[?2004lexpr: syntax error: unexpected argument «20250220.script»
+Trampa:
+Adivina:^C
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej3.sh 100[K100
+[?2004lTrampa: 59
+Adivina:34
+Prueba otra vez
+Adivina:686
+Prueba otra vez
+Adivina:59
+Felicidades
+Adivina:^C
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej3.sh 100
+[?2004lTrampa: 35
+Adivina:45
+Prueba otra vez
+Adivina:35
+Felicidades
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej3.sh 100
+[?2004l+ '[' 1 -ne 1 ']'
++ maximo=100
+++ expr 1 + 100 '*' 13860 / 32768
++ m=43
++ echo Trampa: 43
+Trampa: 43
++ fin=0
++ '[' 0 -ne 1 ']'
++ read -p Adivina: typed
+Adivina:34
++ test 34 == 43
++ echo 'Prueba otra vez'
+Prueba otra vez
++ '[' 0 -ne 1 ']'
++ read -p Adivina: typed
+Adivina:43
++ test 43 == 43
++ echo Felicidades
+Felicidades
++ fin=1
++ '[' 1 -ne 1 ']'
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ls
+[?2004l20250220.script  [0m[01;32mej1.sh[0m  [01;32mej3.sh[0m  ej3.sh~  [01;34mejemplo[0m  [01;32mtontunada[0m
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ case[K[K[K[Ka=34
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a [K=2
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ case $a
+[?2004l[?2004h> in
+[?2004l[?2004h> 3[K1)
+[?2004l[?2004h> echo es un 1
+[?2004l[?2004h> ;;
+[?2004l[?2004h> 2)
+[?2004l[?2004h> echo es un 2
+[?2004l[?2004h> ;;
+[?2004l[?2004h> 3)
+[?2004l[?2004h> echo es un 3
+[?2004l[?2004h> ;;
+[?2004l[?2004h> *)
+[?2004l[?2004h> es[Kcho es otra cosa
+[?2004l[?2004h> ;;
+[?2004l[?2004h> esac
+[?2004les un 2
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=45
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ a=45case $a in 1) echo es un 1; ;; 2) echo es un 2; ;; 3) echo es un 3; ;; *) echo es otra cosa; ;; esac [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Kc
+[?2004les otra cosa
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ chmod +x fi[K[Kejemplo2 .sh 
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f  hola -h -a lala
+[?2004lfichero
+ayuda
+otra cosa
+otra cosa
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -a lala
+[?2004lfichero
+ayuda
+otra cosa
+otra cosa
+ayuda: 1
+fichero: hola
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -a lala[K
+[?2004lfichero
+ayuda: 0
+fichero: hola
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h
+[?2004lfichero
+ayuda
+ayuda: 1
+fichero: hola
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -h
+[?2004lfichero
+ayuda
+ayuda
+ayuda: 1
+fichero: hola
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$  -h
+[?2004l-h: orden no encontrada
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -h[K -h -h
+[?2004lfichero
+ayuda
+ayuda
+ayuda
+ayuda: 1
+fichero: hola
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -h -h -f adios
+[?2004lfichero
+ayuda
+ayuda
+ayuda
+fichero
+ayuda: 1
+fichero: adios
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -h -h -f adios[K[K[K[K[K[K[K[K
+[?2004lfichero
+ayuda
+ayuda
+ayuda
+error: 0
+ayuda: 1
+fichero: hola
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -h -h -f adios
+[?2004lfichero
+ayuda
+ayuda
+ayuda
+fichero
+error
+error: 1
+ayuda: 1
+fichero: hola
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -h -h -f adios
+[?2004lfichero
+ayuda
+ayuda
+ayuda
+fichero
+error
+error: 1
+ayuda: 1
+fichero: hola
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -h -h -f adios
+[?2004lfichero
+ayuda
+ayuda
+ayuda
+fichero
+error
+error: 1
+ayuda: 1
+fichero: hola
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -h -h -f adios[K
+[?2004lfichero
+ayuda
+ayuda
+ayuda
+error: 0
+ayuda: 1
+fichero: hola
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f hola -h -h -h [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C-f
+[?2004lfichero
+error
+error: 1
+ayuda: 0
+fichero:
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f  fichero
+[?2004lfichero
+error: 0
+ayuda: 0
+fichero: fichero
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f fichero
+[?2004lfichero
+error: 0
+ayuda: 0
+fichero: fichero
+llamo a suma
+./ejemplo2.sh: línea 46: suma: orden no encontrada
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f fichero
+[?2004lfichero
+error: 0
+ayuda: 0
+fichero: fichero
+llamo a suma
+5
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f fichero -j[Kh
+[?2004lfichero
+ayuda
+error: 0
+ayuda: 1
+la fincion es:kljfkjsdf
+la ayuda
+fichero: fichero
+llamo a suma
+5
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f fichero -h[K -h
+[?2004lfichero
+ayuda
+error: 0
+ayuda: 1
+la fincion es:kljfkjsdf
+la ayuda
+./ejemplo2.sh: línea 51: return: sólo se puede usar `return' desde una función o un script leído con `source'
+fichero: fichero
+llamo a suma
+5
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ejemplo2.sh -f fichero -h
+[?2004lfichero
+ayuda
+error: 0
+ayuda: 1
+la fincion es:kljfkjsdf
+la ayuda
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ echo $?
+[?2004l1
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ls
+[?2004l20250220.script  [0m[01;32mej3.sh[0m   ej9.sh   [01;34mejemplo[0m      [01;32mejemplo2.sh~[0m
+[01;32mej1.sh[0m           ej3.sh~  ej9.sh~  [01;32mejemplo2.sh[0m  [01;32mtontunada[0m
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ cn[Khdmo [K[K[K[Kmod +x ej9.sh
+[?2004l[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh 
+[?2004lerror en params
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh chmod +x ej9.sh[6P./ej9.sh 
+[?2004lerror en params
+usage: adivinaF [argumentos] maximo
+Calcula un número entre 1 y maximo, y le pide al usuario
+que lo adivine.
+Argumentos:
+-help: Imprime Help (este mensaje) y acaba
+-pistas: Aporta pistas al usuario
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh 
+[?2004lerror en params
+usage: ./ej9.sh [argumentos] maximo
+Calcula un número entre 1 y maximo, y le pide al usuario
+que lo adivine.
+Argumentos:
+-help: Imprime Help (este mensaje) y acaba
+-pistas: Aporta pistas al usuario
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh -ayuda
+[?2004l./ej9.sh: línea 57: [: falta un `]'
+expr: argumento no entero
+Adivina:exit    ^C
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh -ayuda
+[?2004lexpr: argumento no entero
+Adivina:Felicidades
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh -ayuda
+[?2004l-ayuda
+expr: argumento no entero
+Adivina:ex  Felicidades
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh -ayuda
+[?2004lMaximo: -ayuda
+expr: argumento no entero
+Adivina:exit
+./ej9.sh: línea 79: test: exit: se esperaba un operador unario
+./ej9.sh: línea 84: [: falta un `]'
+./ej9.sh: línea 16: [: exit: se esperaba un operador unario
+./ej9.sh: línea 19: [: exit: se esperaba un operador unario
+felicidades
+Adivina:exit    Felicidades
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh -ayuda[K-help
+[?2004lMaximo:
+error
+usage: ./ej9.sh [argumentos] maximo
+Calcula un número entre 1 y maximo, y le pide al usuario
+que lo adivine.
+Argumentos:
+-help: Imprime Help (este mensaje) y acaba
+-pistas: Aporta pistas al usuario
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh -help -p isas[K[Ktas
+[?2004lMaximo:
+error
+usage: ./ej9.sh [argumentos] maximo
+Calcula un número entre 1 y maximo, y le pide al usuario
+que lo adivine.
+Argumentos:
+-help: Imprime Help (este mensaje) y acaba
+-pistas: Aporta pistas al usuario
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh -help -pistas [A]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C34 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K4
+[?2004lMaximo: 34
+usage: ./ej9.sh [argumentos] maximo
+Calcula un número entre 1 y maximo, y le pide al usuario
+que lo adivine.
+Argumentos:
+-help: Imprime Help (este mensaje) y acaba
+-pistas: Aporta pistas al usuario
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh -help 34 [A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C
+[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P34
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[1P34[1P34[1P34[1P34[1P34
+[?2004lMaximo: 34
+Adivina:./ej9.sh: línea 79: test: ==: se esperaba un operador unario
+./ej9.sh: línea 84: [: falta un `]'
+./ej9.sh: línea 16: [: 16: se esperaba un operador unario
+./ej9.sh: línea 19: [: 16: se esperaba un operador unario
+felicidades
+Adivina:exit    ^C
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh 34
+[?2004l+ ayuda=0
++ pistas=0
++ maximo=
++ '[' 1 -lt 1 ']'
++ '[' 1 -ne 0 ']'
++ case $1 in
++ maximo=34
++ shift
++ '[' 0 -ne 0 ']'
++ echo Maximo: 34
+Maximo: 34
++ '[' -z 34 ']'
++ '[' 0 -eq 1 ']'
+++ expr 1 + 34 '*' 22141 / 32768
++ m=23
++ fin=0
++ '[' 0 -ne 1 ']'
++ read -p Adivina: typed
+Adivina:25
++ test 25 == 23
++ '[' 0 -eq '0]'
+./ej9.sh: línea 85: [: falta un `]'
++ Pistas 23 25
++ '[' 23 -lt 25 ']'
++ echo 'es más pequeño el num a adivinar'
+es más pequeño el num a adivinar
++ '[' 0 -ne 1 ']'
++ read -p Adivina: typed
+Adivina:23
++ test 23 == 23
++ echo Felicidades
+Felicidades
++ fin=1
++ '[' 1 -ne 1 ']'
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh 34
+[?2004lMaximo: 34
+A adivinar: 4
+Adivina:23
+./ej9.sh: línea 87: [: falta un `]'
+es más pequeño el num a adivinar
+Adivina:^C
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh 34
+[?2004lMaximo: 34
+A adivinar: 16
+Adivina:34
+Prueba otra vez
+Adivina:54
+Prueba otra vez
+Adivina:12
+Prueba otra vez
+Adivina:16
+Felicidades
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ ./ej9.sh 34 -pisa s[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Ct as
+[?2004lMaximo: 34
+A adivinar: 18
+Adivina:23
+es más pequeño el num a adivinar
+Adivina:2
+es mayor el num a adivinar
+Adivina:18
+Felicidades
+[?2004h]0;iria@adagio: ~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[01;32miria@adagio[00m:[01;34m~/TRABAJO/DOCENCIA/arlinux/Imparticion/clases2024-25[00m$ [?2004l
+exit
+
+Script done on 2025-02-20 10:46:18+01:00 [COMMAND_EXIT_CODE="0"]
